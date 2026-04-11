@@ -1,0 +1,46 @@
+# Autodesk
+DOMAIN-SUFFIX,autodesk.com
+DOMAIN-SUFFIX,autodesk.io
+DOMAIN-SUFFIX,autodesk.net
+DOMAIN-SUFFIX,autodesk360.com
+DOMAIN-SUFFIX,autodeskcloud.com
+DOMAIN-SUFFIX,autodeskviewer.com
+
+# Autodesk API
+DOMAIN-SUFFIX,api.autodesk.com
+DOMAIN-SUFFIX,developer.api.autodesk.com
+DOMAIN-SUFFIX,cdn.api.autodesk.com
+
+# Autodesk Identity
+DOMAIN-SUFFIX,accounts.autodesk.com
+DOMAIN-SUFFIX,profile.autodesk.com
+DOMAIN-SUFFIX,signin.autodesk.com
+
+# Autodesk Licensing
+DOMAIN-SUFFIX,flexnetoperations.com
+DOMAIN-SUFFIX,flexera.com
+DOMAIN-SUFFIX,revenera.com
+
+# Autodesk CDN
+DOMAIN-SUFFIX,adskcloud.com
+DOMAIN-SUFFIX,adskeng.com
+DOMAIN-SUFFIX,adsk.com
+DOMAIN-KEYWORD,autodesk
+DOMAIN-KEYWORD,adsk
+
+# Flame / Shotgrid
+DOMAIN-SUFFIX,shotgrid.autodesk.com
+DOMAIN-SUFFIX,shotgunstudio.com
+DOMAIN-SUFFIX,shotgrid.com
+
+# Download CDN
+DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,akamaihd.net
+DOMAIN-SUFFIX,edgekey.net
+
+# AWS (Autodesk 下载)
+DOMAIN-SUFFIX,amazonaws.com
+
+# telemetry
+DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-SUFFIX,googletagmanager.com
