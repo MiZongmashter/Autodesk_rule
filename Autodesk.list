@@ -16,6 +16,36 @@ DOMAIN-SUFFIX,accounts.autodesk.com
 DOMAIN-SUFFIX,profile.autodesk.com
 DOMAIN-SUFFIX,signin.autodesk.com
 
+# Autodesk Identity Manager third-party services
+DOMAIN-SUFFIX,tiqcdn.com
+DOMAIN-SUFFIX,akamai.com
+DOMAIN-SUFFIX,web-platform.io
+DOMAIN-SUFFIX,google-analytics.com
+DOMAIN-SUFFIX,googletagmanager.com
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,demandbase.com
+DOMAIN-SUFFIX,dynatrace.com
+DOMAIN-SUFFIX,newrelic.com
+DOMAIN-SUFFIX,nr-data.net
+DOMAIN-SUFFIX,6sc.co
+DOMAIN-SUFFIX,6sense.com
+DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,segment.io
+DOMAIN-SUFFIX,demdex.net
+DOMAIN-SUFFIX,everesttech.net
+DOMAIN-SUFFIX,adnxs.com
+DOMAIN-SUFFIX,microsoftazuread-sso.com
+DOMAIN-SUFFIX,microsoftonline.com
+DOMAIN-SUFFIX,duosecurity.com
+DOMAIN-SUFFIX,oktacdn.co
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,msftauth.net
+DOMAIN-SUFFIX,msauthimages.net
+DOMAIN-SUFFIX,hcaptcha.com
+DOMAIN-SUFFIX,okta.com
+DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,qualtrics.com
+
 # Autodesk Licensing
 DOMAIN-SUFFIX,flexnetoperations.com
 DOMAIN-SUFFIX,flexera.com
@@ -43,4 +73,3 @@ DOMAIN-SUFFIX,amazonaws.com
 
 # telemetry
 DOMAIN-SUFFIX,app-measurement.com
-DOMAIN-SUFFIX,googletagmanager.com
